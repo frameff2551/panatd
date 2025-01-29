@@ -9,7 +9,6 @@
     box-shadow: 0;
     animation-fill-mode: none;
     transition: 0,5s;
-    display:flex;
 }
 
     /* --------------Menu------------*/
@@ -204,13 +203,11 @@
     align-items: center;
 }
 .content{
-    display: flex;
-    justify-content:center;
-    grid-template-columns: repeat(3,1fr);
-    border: 1px;
+    display: grid;
+    grid-template-columns: repeat(3,ifr);
     max-width: 1140px;
-    margin: 0auto ;
-    align-items: center;
+    margin: 0 auto ;
+    column-gap:5px;
     }
 .content-item{
     padding: 12px;
