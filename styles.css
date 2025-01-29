@@ -219,6 +219,7 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
+    text-align: center;
 }
 .content-item1{
     border:1px #1b8cee solid;
@@ -230,6 +231,7 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
+    text-align: center;
 }
 .content-item2{
     border:1px #1b8cee solid;
@@ -241,4 +243,5 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
+    text-align: center;
 }
