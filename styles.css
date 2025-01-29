@@ -7,6 +7,7 @@
     margin: 0;
     padding: 0;
     box-shadow: 0;
+    animation-fill-mode: none;
     transition: 0,5s;
 }
 
@@ -210,7 +211,6 @@
     align-items: center;
     }
 .content-item{
-    border: 1px #000 solid;
     padding: 12px;
     background-color: rgb(46, 103, 136);
     counter-reset:0 0 10px ;
