@@ -9,6 +9,7 @@
     box-shadow: 0;
     animation-fill-mode: none;
     transition: 0,5s;
+    display:flex;
 }
 
     /* --------------Menu------------*/
@@ -208,7 +209,7 @@
     grid-template-columns: repeat(3,1fr);
     border: 1px;
     max-width: 1140px;
-    margin: 0auto ;
+    margin: 0 auto ;
     align-items: center;
     }
 .content-item{
@@ -220,7 +221,6 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
-    display:flex;
 }
 .content-item1{
     border:1px #1b8cee solid;
@@ -232,7 +232,6 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
-    display:flex;
 }
 .content-item2{
     border:1px #1b8cee solid;
@@ -244,5 +243,4 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
-    display:flex;
 }
