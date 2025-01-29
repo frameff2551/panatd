@@ -204,13 +204,11 @@
 .content{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    border: 1px rgb(51, 29, 133) solid;
+    border: 1px;
     max-width: 1140px;
     margin: 0auto ;
     align-items: center;
-    
-}
-
+    }
 .content-item{
     border: 1px #000 solid;
     padding: 12px;
@@ -221,22 +219,20 @@
     align-items: center;
     column-gap: 10px;
     justify-content: center;
-
 }
 .content-item1{
-    border:1px #1b8cee;
+    border:1px #1b8cee solid;
     padding: 12px;
     background-color: rgb(46, 103, 136);
     counter-reset:0 0 10px ;
     border-radius: 25px;
-    box-shadow: 0 4px 8px 0 #6a6777,0 6px 20px 0 rgb(111, 39, 145); 
+    box-shadow: 0 4px 8px 0 #6a6777; 
     align-items: center;
     column-gap: 10px;
     justify-content: center;
-
 }
 .content-item2{
-    border:1px #1b8cee;
+    border:1px #1b8cee solid;
     padding: 12px;
     background-color: rgb(46, 103, 136);
     counter-reset:0 0 10px ;
