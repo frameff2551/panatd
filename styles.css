@@ -203,7 +203,8 @@
     align-items: center;
 }
 .content{
-    display: grid;
+    display: flex;
+    justify-content:center;
     grid-template-columns: repeat(3,1fr);
     border: 1px;
     max-width: 1140px;
