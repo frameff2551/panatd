@@ -232,3 +232,27 @@
     box-shadow: 0 4px 8px 0 #6a6777; 
     column-gap: 10px;
 }
+.container-item3{
+    border: 1px rgb(9, 129, 150);
+    padding: 12px;
+    background-color: rgb(17, 24, 112);
+    color: rgb(135, 43, 138);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0;
+}
+.container-item4{
+    border: 1px rgb(148, 35, 35);
+    padding: 12px;
+    background-color: rgb(41, 90, 153);
+    color: rgb(26, 150, 57);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0;
+}
+.container-item5{
+    border: 1px rgb(20, 79, 119);
+    padding: 12px;
+    background-color: rgb(105, 42, 121);
+    color: rgb(47, 21, 116);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0;
+}
