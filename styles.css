@@ -235,7 +235,7 @@
 .container-item3{
     border: 1px rgb(9, 129, 150);
     padding: 12px;
-    background-color: rgb(17, 24, 112);
+    background-color: rgb(166, 171, 241);
     color: rgb(135, 43, 138);
     border-radius: 25px;
     box-shadow: 0 4px 8px 0;
@@ -243,16 +243,16 @@
 .container-item4{
     border: 1px rgb(148, 35, 35);
     padding: 12px;
-    background-color: rgb(41, 90, 153);
-    color: rgb(26, 150, 57);
+    background-color: rgb(152, 235, 141);
+    color: rgb(11, 44, 19);
     border-radius: 25px;
     box-shadow: 0 4px 8px 0;
 }
 .container-item5{
-    border: 1px rgb(20, 79, 119);
+    border: 1px rgb(138, 206, 252);
     padding: 12px;
-    background-color: rgb(105, 42, 121);
-    color: rgb(47, 21, 116);
+    background-color: rgb(217, 156, 233);
+    color: rgb(97, 62, 194);
     border-radius: 25px;
     box-shadow: 0 4px 8px 0;
 }
